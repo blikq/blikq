@@ -47,7 +47,7 @@ When I'm not typing away at my keyboard, you'll likely find me:
 
 ## 🌐 Let's Connect!
 
-Feel free to reach out for collaborations, coding adventures, or just a friendly chat. Connect with me on [LinkedIn](https://www.linkedin.com/in/yourname) and let's make the coding world a little smaller and more fun together!
+Feel free to reach out for collaborations, coding adventures, or just a friendly chat. Connect with me on [LinkedIn](https://www.linkedin.com/in/al-ameen-musa-473a68241/) and let's make the coding world a little smaller and more fun together!
 
 Happy coding! ✨
 
