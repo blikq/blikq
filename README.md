@@ -54,4 +54,9 @@ Happy coding! ✨
 [![Twitter Follow](https://img.shields.io/twitter/follow/BlikqOp?style=social)](https://twitter.com/BlikqOp)
 [![GitHub followers](https://img.shields.io/github/followers/blikq?label=Follow&style=social)](https://github.com/blikq)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/blikq/count.svg" />
+</p>
+
 > "The only way to do great work is to love what you do." - Steve Jobs
