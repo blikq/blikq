@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%F0%9F%92%BB%20-F7DF1E.svg)
 ![React](https://img.shields.io/badge/React-%F0%9F%9A%80%20-61DAFB.svg)
 
-Welcome to my corner of the GitHub universe! I'm a passionate developer who thrives on turning coffee into code. My expertise lies in Python, Rust, JavaScript, and I'm particularly enchanted by the magic of React.
+Welcome to my corner of the GitHub universe! I'm a passionate developer who thrives on turning coffee into code. My expertise lies in Python, React, JavaScript, and I'm particularly enchanted by the magic of Rust.
 
 ## 🚀 About Me
 
