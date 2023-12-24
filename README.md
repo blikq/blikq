@@ -1,5 +1,11 @@
 # 👋 Hello World! I'm Al-ameen Musa
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/blikq/count.svg" />
+</p>
+
+
 ![Developer](https://img.shields.io/badge/Developer-%F0%9F%9B%A0%20-007ACC.svg)
 ![Python](https://img.shields.io/badge/Python-%F0%9F%90%8D%20-3776AB.svg)
 ![Rust](https://img.shields.io/badge/Rust-%F0%9F%94%A5%20-B7410E.svg)
@@ -53,10 +59,5 @@ Happy coding! ✨
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/BlikqOp?style=social)](https://twitter.com/BlikqOp)
 [![GitHub followers](https://img.shields.io/github/followers/blikq?label=Follow&style=social)](https://github.com/blikq)
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/blikq/count.svg" />
-</p>
 
 > "The only way to do great work is to love what you do." - Steve Jobs
