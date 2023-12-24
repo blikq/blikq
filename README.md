@@ -22,7 +22,7 @@ class Developer:
 
 # Creating an instance of the Developer class
 me = Developer(
-    name="Your Name",
+    name="Al-ameen Musa",
     languages=["Python", "Rust", "JavaScript"],
     interests=["Basketball", "Gaming", "Making Friends"]
 )
