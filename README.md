@@ -39,9 +39,8 @@ me.say_hello()
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, Rust, JavaScript
-- **Web Frameworks:** React
-- **Other Tools:** Git, VS Code, Docker
+- **Languages:** Python, Rust, Go-net, ...
+- **Other Tools:** Git, VS Code, Docker, CI/CD, ...
 
 ## 🏀 Hobbies
 
